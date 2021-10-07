@@ -1,9 +1,13 @@
 /// Localnet testing params:
-/// Sollet Address: GLAdjCa38boaXipQzy2fhy1QxnQR9YZLPuDnhumg8bPP
-/// Token Mint Account X: BzVURnS8u564h2K8mwEGJ88C4yqULMtfzFrFqM5Yi76A
-/// Alice X Token Account: 3qxT15LvmQeoAv3oUdEbhEoPNue4fqTVwEpi8gS7ygGU
-/// Token Mint Account Y: 7Gfxf1ZwaTSpqrtapNDoWNPBWjcK3C56WN3ykJqAAVg6
-/// Alice Y Token Account: H3BXiXbCC3eBaS1MeyUweytWXUWpofKrPMnGvWJ2595m
+/// Completed Program ID: D2Ce7a3RjWd7SF8LHXqqcxqWp7WXWLvBDywUMJZNc4PD
+/// Alice Throwaway Sollet Address: GLAdjCa38boaXipQzy2fhy1QxnQR9YZLPuDnhumg8bPP
+/// Bob Throwaway Sollet Address: AAYs6yJkdZUokZ1PqEBKTeFDLyjWMR8x5XiAH9EaobYg
+/// Token Mint Account X: FMLNEfUxuXhDmpcoAzaC8sK24Nxn2ZNQ9JJ3nRwTgqmB
+/// Alice X Token Account: HJsscEATGN8KrUMkzJNahfoCdnSoj9253aPie9Dx7iuH | Start with 100
+/// Bob X Token Account: H6f33vEnBJdBB3DpjeJaadtZNVvZCkRTKFqpkiscouxV | Start with 0
+/// Token Mint Account Y: HYVDM6tua8Di5SFPsBNKwgXzZekTn898ZzMRRZdDtPoA
+/// Alice Y Token Account: EmJT3qqim485pRjCWfiU9oXiuMYxaPY1ZiGTy9bhnJ4Z | Start with 0
+/// Bob Y Token Account: 3TSntfftxJM2u7k1jesSaRgBuCmCVM2cdppfd3VbJCL7 | Start with 100
 pub mod instruction;
 pub mod error;
 pub mod processor;
